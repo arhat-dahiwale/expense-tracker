@@ -1,1 +1,2 @@
-export const API_URL = "http://10.54.249.6:3000";   
+export const API_URL =
+  "https://expense-tracker-production-71cf.up.railway.app";
